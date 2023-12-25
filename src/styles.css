@@ -38,6 +38,19 @@ p {
     text-align: center;
 }
 
+.launch-app-button {
+    margin: 20px 120px;
+    border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    box-shadow: var(--box-shadow);
+    display: flex;
+    justify-content: center;
+}
+
 .navigation-links {
     display: flex;
     margin-top: 40px;
