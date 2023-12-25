@@ -76,7 +76,9 @@ p {
     border: 1px solid var(--primary-color);
 }
 
-
+.about-paragraphs {
+    margin: 20px 0;
+}
 
 .email-link {
     display:flex;
